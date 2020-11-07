@@ -1,0 +1,23 @@
+{
+  "name": "cadena-romano-a-decimal",
+  "version": "1.0.0",
+  "description": "Convert literal roman number to decimal number",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chitenavi/cadena-romano-a-decimal.git"
+  },
+  "keywords": [
+    "convert",
+    "roman"
+  ],
+  "author": "chitenavi@gmail.com <chitenavi@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chitenavi/cadena-romano-a-decimal/issues"
+  },
+  "homepage": "https://github.com/chitenavi/cadena-romano-a-decimal#readme"
+}
